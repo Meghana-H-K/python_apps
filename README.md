@@ -9,56 +9,11 @@ Line wrap mode
 
 Soft wrap
 Editing README.md file contents
-  1
-  2
-  3
-  4
-  5
-  6
-  7
-  8
-  9
- 10
- 11
- 12
- 13
- 14
- 15
- 16
- 17
- 18
- 19
- 20
- 21
- 22
- 23
- 24
- 25
- 26
- 27
- 28
- 29
- 30
- 31
- 32
- 33
- 34
- 35
- 36
- 37
- 38
- 39
- 40
- 41
- 42
- 43
- 44
- 45
- 46
  Python Utility & Interactive Applications
 <img width="499" height="330" alt="WhatsApp Image 2026-07-22 at 3 29 27 PM" src="https://github.com/user-attachments/assets/00f6f405-7a03-45f1-bdbf-325cf832224a" />
 
 A collection of lightweight Python applications including a GUI-based **Strong Password Generator** and a CLI-based **Terminal Quiz System**.
+<img width="551" height="420" alt="WhatsApp Image 2026-07-22 at 3 32 21 PM" src="https://github.com/user-attachments/assets/0394555c-deb0-4054-8994-5b83a9100da9" />
 
 ---
 
