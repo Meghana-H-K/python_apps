@@ -14,6 +14,7 @@ Editing README.md file contents
 
 A collection of lightweight Python applications including a GUI-based **Strong Password Generator** and a CLI-based **Terminal Quiz System**.
 <img width="551" height="420" alt="WhatsApp Image 2026-07-22 at 3 32 21 PM" src="https://github.com/user-attachments/assets/0394555c-deb0-4054-8994-5b83a9100da9" />
+![Uploading Screenshot 2026-07-22 154743.png…]()
 
 ---
 
